@@ -1,5 +1,5 @@
   
-# ###[仿联想官方商城->点击进入](http://htmlpreview.github.io/?https://github.com/wgytcdx/test-lenovo/blob/master/index.html)（静态页面包括登陆框，注册，验证码登陆）
+# [仿联想官方商城->点击进入](http://htmlpreview.github.io/?https://github.com/wgytcdx/test-lenovo/blob/master/index.html)（静态页面包括登陆框，注册，验证码登陆）
 ##效果预览：  
   
   
